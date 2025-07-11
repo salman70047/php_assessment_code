@@ -393,5 +393,5 @@ For questions or issues, please contact the development team or create an issue 
 
 ---
 
-**Built with ❤️ using Laravel, Tailwind CSS, and modern web technologies.**
+**Built with ❤️ using Laravel, Tailwind CSS, By Salman Javed.**
 
